@@ -5,13 +5,13 @@ Game Devices for Linux and Android
 # Download Links
 ## Boot From the TF Card
 ### K36
-Download [Google Drive]() | [MEGA] (Updated (09/19/2024)
+Download [Google Drive] | [MEGA] (Updated (09/19/2024)
 
 ### R36Pro
-Download [Google Drive]() | [MEGA] (Updated (09/19/2024)
+Download [Google Drive](https://drive.google.com/file/d/1nS_MZI08bRWa7lzJr1JWqlq9DCZbicjX/view?usp=drive_link) | [MEGA] (Updated (09/19/2024)
 
 ### R36Max
-Download [Google Drive]() | [MEGA] (Updated (09/19/2024)
+Download [Google Drive](https://drive.google.com/file/d/1ghmlf-igMjMGmMO08KwtSTSRHTLr_CC5/view?usp=drive_link) | [MEGA] (Updated (09/19/2024)
 
 ## Boot From the Flash
 
@@ -19,10 +19,10 @@ Download [Google Drive]() | [MEGA] (Updated (09/19/2024)
 # [ArkOS]
 ## Boot From the TF Card
 ### R36Pro
-Download [Google Drive]() | [MEGA] (Updated (09/19/2024)
+Download [Google Drive] | [MEGA] (Updated (09/19/2024)
 
 ### R36Max
-Download [Google Drive]() | [MEGA] (Updated (09/19/2024)
+Download [Google Drive] | [MEGA] (Updated (09/19/2024)
 
 
 ### Community Maintained Image.
