@@ -4,9 +4,6 @@ Game Devices for Linux and Android
 # [EmuElec]
 # Download Links
 ## Boot From the TF Card
-### K36
-Download [Google Drive] | [MEGA] (Updated (09/19/2024)
-
 ### R36Pro
 Download [Google Drive](https://drive.google.com/file/d/1nS_MZI08bRWa7lzJr1JWqlq9DCZbicjX/view?usp=drive_link) | [MEGA] (Updated (09/19/2024)
 
